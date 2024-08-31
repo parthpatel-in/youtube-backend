@@ -1,0 +1,19 @@
+{
+  "name": "backend-project",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "backend project using nodejs and monogodb",
+  "main": "index.js",
+  "scripts": {
+    "dev": " nodemon src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "\"parth patel\"",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

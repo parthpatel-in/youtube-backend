@@ -6,9 +6,9 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
-
+note.md
 node_modules
-
+.env
 dist
 dist-ssr
 *.local
@@ -18,7 +18,7 @@ dist-ssr
 !.vscode/extensions.json
 .idea
 .DS_Store
-MegaBlog/.env
+
 *.suo
 *.ntvs*
 *.njsproj
@@ -26,6 +26,6 @@ MegaBlog/.env
 *.sw?
 
 .DS_Store
-MegaBlog/.env
+
 
 
